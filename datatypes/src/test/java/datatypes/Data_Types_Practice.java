@@ -1,6 +1,5 @@
 package datatypes;
 
-import org.openqa.selenium.WebElement;
 import org.testng.annotations.Test;
 
 public class Data_Types_Practice {
@@ -18,6 +17,7 @@ public void testing() {
 	
 	String mystr = "hello mr";
 	System.out.println(mystr+"\thow are you");
+	
 	
 	
 	
